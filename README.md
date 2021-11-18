@@ -5,7 +5,7 @@ coding-hot-pot: https://medium.com/coding-hot-pot
 
 ### 💾 My projects
 
-- [♠freeCell](https://github.com/ChangChiao/freeCell)
+- [♠ freeCell](https://github.com/ChangChiao/freeCell)
 - [🏞 Tai Walk](https://changchiao.github.io/react_attractions/#/)
 - [🚲 Bike Fun](https://changchiao.github.io/vue_youbike/#/)
 - [🗺 maskMap](https://github.com/ChangChiao/mask_map)
