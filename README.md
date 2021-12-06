@@ -5,12 +5,13 @@ coding-hot-pot: https://medium.com/coding-hot-pot
 
 ### 💾 My projects
 
-- [♠ freeCell](https://github.com/ChangChiao/freeCell)
+- [♠ FreeCell](https://github.com/ChangChiao/freeCell)
+- [🚌 Bus Timetable](https://changchiao.github.io/bus_timetable/#/)
 - [🏞 Tai Walk](https://changchiao.github.io/react_attractions/#/)
 - [🚲 Bike Fun](https://changchiao.github.io/vue_youbike/#/)
-- [🗺 maskMap](https://github.com/ChangChiao/mask_map)
-- [💿 musicPlayer](https://github.com/ChangChiao/music_player)
-- [🍅 pomodoro](https://github.com/ChangChiao/pomodoro)
+- [🗺 MaskMap](https://github.com/ChangChiao/mask_map)
+- [💿 MusicPlayer](https://github.com/ChangChiao/music_player)
+- [🍅 Pomodoro](https://github.com/ChangChiao/pomodoro)
 
 ### 📫 Contact me 
 <joe.chang365@gmail.com>
