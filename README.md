@@ -6,14 +6,14 @@ coding-hot-pot: https://medium.com/coding-hot-pot
 ### 💾 My projects
 
 
-- [🚌 Bus Timetable](https://changchiao.github.io/bus_timetable/#/)
-- [🏞 Tai Walk](https://changchiao.github.io/react_attractions/#/)
+- [🚌 Bus Timetable](https://github.com/ChangChiao/bus_timetable)
+- [🏞 Tai Walk](https://github.com/ChangChiao/react_attractions)
 - [♠ FreeCell](https://github.com/ChangChiao/freeCell)
-- [🚲 Bike Fun](https://changchiao.github.io/vue_youbike/#/)
-- [🐘 Dark_chess](https://changchiao.github.io/dark_chess/)
+- [🚲 Bike Fun](https://github.com/ChangChiao/vue_youbike)
+- [🐘 Dark_chess](https://github.com/ChangChiao/dark_chess)
 - [💿 MusicPlayer](https://github.com/ChangChiao/music_player)
 - [🗺 MaskMap](https://github.com/ChangChiao/mask_map)
-- [☁ Weather Box](https://changchiao.github.io/weather_box/)
+- [☁ Weather Box](https://github.com/ChangChiao/weather_box)
 - [🍅 Pomodoro](https://github.com/ChangChiao/pomodoro)
 
 ### 📫 Contact me 
