@@ -6,16 +6,16 @@ coding-hot-pot: https://medium.com/coding-hot-pot
 ### 💾 My projects
 
 
-- [🚌 Bus Timetable](https://github.com/ChangChiao/bus_timetable)
-- [🏞 Tai Walk](https://github.com/ChangChiao/react_attractions)
-- [♠ FreeCell](https://github.com/ChangChiao/freeCell)
-- [🚲 Bike Fun](https://github.com/ChangChiao/vue_youbike)
-- [🐘 Dark_chess](https://github.com/ChangChiao/dark_chess)
-- [💿 MusicPlayer](https://github.com/ChangChiao/music_player)
-- [🗺 MaskMap](https://github.com/ChangChiao/mask_map)
-- [✏ TodoList](https://changchiao.github.io/react-todolist/#/signin)
-- [☁ Weather Box](https://github.com/ChangChiao/weather_box)
-- [🍅 Pomodoro](https://github.com/ChangChiao/pomodoro)
+- [🚌 公車即時到站 Bus Timetable](https://github.com/ChangChiao/bus_timetable)
+- [🏞 台灣旅遊景點Tai Walk ](https://github.com/ChangChiao/react_attractions)
+- [♠ 新接龍 FreeCell ](https://github.com/ChangChiao/freeCell)
+- [🚲 自行車路線 Bike Fun ](https://github.com/ChangChiao/vue_youbike)
+- [🐘 暗棋 Dark_chess](https://github.com/ChangChiao/dark_chess)
+- [💿 音樂播放器 MusicPlayer](https://github.com/ChangChiao/music_player)
+- [🗺 口罩地圖 MaskMap](https://github.com/ChangChiao/mask_map)
+- [✏ 待辦事項TodoList](https://changchiao.github.io/react-todolist/#/signin)
+- [☁ 天氣盒 Weather Box](https://github.com/ChangChiao/weather_box)
+- [🍅 番茄鐘 Pomodoro](https://github.com/ChangChiao/pomodoro)
 
 ### 📫 Contact me 
 <joe.chang365@gmail.com>
