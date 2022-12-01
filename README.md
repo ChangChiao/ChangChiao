@@ -8,8 +8,11 @@ coding-hot-pot: https://medium.com/coding-hot-pot
 
 - [🚌 公車即時到站 Bus Timetable](https://github.com/ChangChiao/bus_timetable)
 - [🏞 台灣旅遊景點Tai Walk ](https://github.com/ChangChiao/react_attractions)
+- [📗 PDF線上簽署 Fast Sign ](https://github.com/ChangChiao/f2e-2022-sign)
 - [♠ 新接龍 FreeCell ](https://github.com/ChangChiao/freeCell)
+- [↕ 視差滾動 parallax scrolling ](https://github.com/ChangChiao/F2E-2022)
 - [🚲 自行車路線 Bike Fun ](https://github.com/ChangChiao/vue_youbike)
+- [🔁 scrum 新手村 ](https://github.com/ChangChiao/f2e-2022-scrum)
 - [🐘 暗棋 Dark_chess](https://github.com/ChangChiao/dark_chess)
 - [💿 音樂播放器 MusicPlayer](https://github.com/ChangChiao/music_player)
 - [🗺 口罩地圖 MaskMap](https://github.com/ChangChiao/mask_map)
