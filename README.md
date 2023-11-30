@@ -1,15 +1,15 @@
 Hi, I’m Joe. I’m a passionate front-end engineer from Taiwan. I have three years of Vue development experience and one year of React development experience. Also have experience working with uiux designers and back-end engineers. I like to learn new knowledge and write blogs to share information with others.
 
 ### 📒 Blog
- 
+
 <a href="https://medium.com/coding-hot-pot">
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"   /> 
 </a>
 
-### 📁 My projects
+<!-- ### 📁 My projects
 
 
-- [🚌 公車即時到站 Bus Timetable](https://github.com/ChangChiao/bus_timetable)
+ [🚌 公車即時到站 Bus Timetable](https://github.com/ChangChiao/bus_timetable)
 - [🏞 台灣旅遊景點Tai Walk ](https://github.com/ChangChiao/react_attractions)
 - [📗 PDF線上簽署 Fast Sign ](https://github.com/ChangChiao/f2e-2022-sign)
 - [♠ 新接龍 FreeCell ](https://github.com/ChangChiao/freeCell)
@@ -21,9 +21,10 @@ Hi, I’m Joe. I’m a passionate front-end engineer from Taiwan. I have three y
 - [🗺 口罩地圖 MaskMap](https://github.com/ChangChiao/mask_map)
 - [🖍 待辦事項TodoList](https://changchiao.github.io/react-todolist/#/signin)
 - [🌞 天氣盒 Weather Box](https://github.com/ChangChiao/weather_box)
-- [🍅 番茄鐘 Pomodoro](https://github.com/ChangChiao/pomodoro)
+- [🍅 番茄鐘 Pomodoro](https://github.com/ChangChiao/pomodoro) -->
 
-### 📫 Contact me 
+### 📫 Contact me
+
 <joe.chang365@gmail.com>
 
 #### 🖥 frameworks and library
@@ -40,6 +41,7 @@ Hi, I’m Joe. I’m a passionate front-end engineer from Taiwan. I have three y
 </p>
 
 #### 🖌 style
+
 <p>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -48,13 +50,13 @@ Hi, I’m Joe. I’m a passionate front-end engineer from Taiwan. I have three y
 </p>
 
 #### 🔧 tools
+
 <p>
    <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white" /> 
    <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" /> 
    <img src="https://img.shields.io/badge/Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=white" />
    <img src="https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white" />
 </p>
-
 
 #### 💾 backend
 
@@ -65,11 +67,10 @@ Hi, I’m Joe. I’m a passionate front-end engineer from Taiwan. I have three y
 
 </p>
 
-
 #### ☁︎ other
+
 <p>
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
     <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
 </p>
-
