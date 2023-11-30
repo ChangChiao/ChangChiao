@@ -9,6 +9,11 @@ Hi, I’m Joe. I’m a passionate front-end engineer from Taiwan. I have three y
 ### 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [重構-改善既有的程式設計feat.實戰經驗](https://medium.com/coding-hot-pot/%E9%87%8D%E6%A7%8B-%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E7%9A%84%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88feat-%E5%AF%A6%E6%88%B0%E7%B6%93%E9%A9%97-c411c6006fa8?source=rss-92be0b182a4e------2)
+- [管理i18n的好幫手 — phrase](https://medium.com/coding-hot-pot/%E7%AE%A1%E7%90%86i18n%E7%9A%84%E5%A5%BD%E5%B9%AB%E6%89%8B-phrase-bea03ec402f7?source=rss-92be0b182a4e------2)
+- [E2E test的明日之星 — playwright](https://medium.com/coding-hot-pot/e2e-test%E7%9A%84%E6%98%8E%E6%97%A5%E4%B9%8B%E6%98%9F-playwright-de85659b56b9?source=rss-92be0b182a4e------2)
+- [vim的指令筆記](https://medium.com/coding-hot-pot/vim%E7%9A%84%E6%8C%87%E4%BB%A4%E7%AD%86%E8%A8%98-1bed0d18e493?source=rss-92be0b182a4e------2)
+- [2023前端工程師面試心得](https://medium.com/coding-hot-pot/2023%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%AB%E9%9D%A2%E8%A9%A6%E5%BF%83%E5%BE%97-591c127f735c?source=rss-92be0b182a4e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 📁 My projects
