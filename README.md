@@ -1,11 +1,5 @@
 Hi, I’m Joe. I’m a passionate front-end engineer from Taiwan. I have three years of Vue development experience and one year of React development experience. Also have experience working with uiux designers and back-end engineers. I like to learn new knowledge and write blogs to share information with others.
 
-### 📒 Blog
-
-<a href="https://medium.com/coding-hot-pot">
-        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"   /> 
-</a>
-
 ### 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
