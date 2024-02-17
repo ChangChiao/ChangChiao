@@ -1,5 +1,4 @@
-Hi, I’m Joe. I’m a passionate front-end engineer from Taiwan. I have three years of Vue development experience and one year of React development experience. Also have experience working with uiux designers and back-end engineers. I like to learn new knowledge and write blogs to share information with others.
-
+Hi, I’m Joe. I am a highly passionate frontend engineer with over five years of experience in frontend development. I am proficient in frontend frameworks such as Angular and Vue. I have a keen enthusiasm for learning new technologies and documenting the process, which I share with others through my technical blog.
 ### 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
