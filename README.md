@@ -2,11 +2,11 @@ Hi, I’m Joe. I am a highly passionate frontend engineer with over five years o
 ### 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [如何定義資深工程師？](https://medium.com/coding-hot-pot/%E5%A6%82%E4%BD%95%E5%AE%9A%E7%BE%A9%E8%B3%87%E6%B7%B1%E5%B7%A5%E7%A8%8B%E5%B8%AB-a6fb0bf53dcb?source=rss-92be0b182a4e------2)
 - [websocket ping pong機制](https://medium.com/coding-hot-pot/websocket-ping-pong%E6%A9%9F%E5%88%B6-86a5f06d1e2a?source=rss-92be0b182a4e------2)
 - [讓ChatGPT來當你的開發助手](https://medium.com/coding-hot-pot/%E8%AE%93chatgpt%E4%BE%86%E7%95%B6%E4%BD%A0%E7%9A%84%E9%96%8B%E7%99%BC%E5%8A%A9%E6%89%8B-0ae4716b44e2?source=rss-92be0b182a4e------2)
 - [從medium到hexo](https://medium.com/coding-hot-pot/%E5%BE%9Emedium%E5%88%B0hexo-19a9884947f2?source=rss-92be0b182a4e------2)
 - [2023 F2E 鐵人賽心得](https://medium.com/coding-hot-pot/2023-f2e-%E9%90%B5%E4%BA%BA%E8%B3%BD%E5%BF%83%E5%BE%97-9f809fd8e418?source=rss-92be0b182a4e------2)
-- [重構-改善既有的程式設計feat.實戰經驗](https://medium.com/coding-hot-pot/%E9%87%8D%E6%A7%8B-%E6%94%B9%E5%96%84%E6%97%A2%E6%9C%89%E7%9A%84%E7%A8%8B%E5%BC%8F%E8%A8%AD%E8%A8%88feat-%E5%AF%A6%E6%88%B0%E7%B6%93%E9%A9%97-c411c6006fa8?source=rss-92be0b182a4e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 📁 My projects
