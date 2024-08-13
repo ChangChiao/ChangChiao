@@ -1,4 +1,4 @@
-Hi, I’m Joe. I am a highly passionate frontend engineer with over five years of experience in frontend development. I am proficient in frontend frameworks such as Angular and Vue. I have a keen enthusiasm for learning new technologies and documenting the process, which I share with others through my technical blog.
+Hi, I’m Joe. I am a highly passionate frontend engineer with over seven years of experience in frontend development. I am proficient in frontend frameworks such as Angular and Vue. I have a keen enthusiasm for learning new technologies and documenting the process, which I share with others through my technical blog.
 ### 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
