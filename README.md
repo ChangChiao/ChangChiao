@@ -2,11 +2,11 @@ Hi, I’m Joe. I am a highly passionate frontend engineer with over seven years 
 ### 📙 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [第一屆Virtual Coffee Chat — 擔任mentor的心得](https://medium.com/coding-hot-pot/%E7%AC%AC%E4%B8%80%E5%B1%86virtual-coffee-chat-%E6%93%94%E4%BB%BBmentor%E7%9A%84%E5%BF%83%E5%BE%97-dcb0cbb61614?source=rss-92be0b182a4e------2)
 - [初探 Gitlab CI/CD](https://medium.com/coding-hot-pot/%E5%88%9D%E6%8E%A2-gitlab-cicd-b0874f757beb?source=rss-92be0b182a4e------2)
 - [讓Angular reactive起來 — Signal](https://medium.com/coding-hot-pot/%E8%AE%93angular-reactive%E8%B5%B7%E4%BE%86-signal-139a8dce1c8e?source=rss-92be0b182a4e------2)
 - [如何定義資深工程師？](https://medium.com/coding-hot-pot/%E5%A6%82%E4%BD%95%E5%AE%9A%E7%BE%A9%E8%B3%87%E6%B7%B1%E5%B7%A5%E7%A8%8B%E5%B8%AB-a6fb0bf53dcb?source=rss-92be0b182a4e------2)
 - [websocket ping pong機制](https://medium.com/coding-hot-pot/websocket-ping-pong%E6%A9%9F%E5%88%B6-86a5f06d1e2a?source=rss-92be0b182a4e------2)
-- [讓ChatGPT來當你的開發助手](https://medium.com/coding-hot-pot/%E8%AE%93chatgpt%E4%BE%86%E7%95%B6%E4%BD%A0%E7%9A%84%E9%96%8B%E7%99%BC%E5%8A%A9%E6%89%8B-0ae4716b44e2?source=rss-92be0b182a4e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- ### 📁 My projects
