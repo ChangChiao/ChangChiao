@@ -13,7 +13,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Pull in medium posts
-        uses: gautamkrishnar/blog-post-workflow@v2  
+        uses: gautamkrishnar/blog-post-workflow@v1.8.0
         with:
           max_post_count: "5"
           feed_list: "https://medium.com/feed/@joe-chang"
